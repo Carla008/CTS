@@ -1,7 +1,0 @@
-Cerinta din clasa
-
-Să se implementeze un Builder pentru crearea unui obiect de tip Burger, având câmpurile "tip de chiflă”, "carne", "condimente".
-Builderul trebuie să ofere metode pentru a seta fiecare câmp în parte, respectiv "setChifla(String), "setSos(String)”, "setLegume(String)"
-și "setCondimente(String)". De asemenea, builderul trebuie să ofere o metodă “build()" pentru a crea obiectul Burger cu valorile setate
-în câmpuri. Trebuie să se asigure că obiectul Burger creat are toate câmpurile setate corect.
-
