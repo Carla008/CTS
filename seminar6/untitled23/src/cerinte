@@ -1,0 +1,5 @@
+D. Banca
+
+2. Banca oferă servicii pentru persoane juridice și pentru persoane fizice. Să se implementeze
+modulul care construiește obiecte din familia de clienți ai băncii. Modulul trebuie realizat, astfel
+încât pentru adăugări de noi tipuri de clienți să nu fie necesare modificări în codul existent.
