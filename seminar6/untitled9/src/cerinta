@@ -1,0 +1,6 @@
+A. Spital
+15. Managerul spitalului dorește sa grăbească procesul de la primiri urgente si astfel operatorul
+care primește pacienții la triaj va da comenzi de internare sau de tratare imediata pentru pacienții
+veniți si ii va așeza astfel la alte cozi separate. Comenzile sunt trimise către medici, însă operatorul
+poate primească alți pacienții mult mai rapid. Sa se implementeze modulul care permite trimiterea
+de comenzi către medici de la operatorul de primire.
