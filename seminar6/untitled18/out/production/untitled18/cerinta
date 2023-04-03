@@ -1,0 +1,8 @@
+C. Farmacie
+
+3. Atunci când un client achiziționează o rețetă în aplicație se realizează un obiect de tipul factură.
+Un obiect de tipul factură conține și informații extra precum: numarPungi, daca acel client a cerut
+pungi pentru medicamentele achiziționate, plataCuCard, dacă este selectată o plată cu cardul ci nu
+cash, cardFidelitate, dacă este prezentat cardul de fidelitate al clientului, cotaTVA, dacă
+respectivul client este plătitor de TVA, în caz contrar o să fie trecut 0. Să se implementeze modulul
+care permite crearea de obiecte de tip factură cu aceste opțiuni extra.
