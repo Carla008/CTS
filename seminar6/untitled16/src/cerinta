@@ -1,0 +1,5 @@
+C. Farmacie
+
+1. Farmacia dorește ca toate medicamentele să facă parte dintr-o categorie. Categoriile sunt salvate
+într-un enum {Raceala, Durere, Body}. Fiecare medicament o sa aibă preț și denumire. Să se
+implementeze modul care va inițializa obiecte din familia medicamentelor.
